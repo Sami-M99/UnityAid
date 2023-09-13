@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465781183925",
+    "project_id": "unityaid-21e8c",
+    "storage_bucket": "unityaid-21e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465781183925:android:9a62769e8058adc416f5fc",
+        "android_client_info": {
+          "package_name": "com.sami.unityaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465781183925-j23qkftbckid6902rnrsrbohiev12qok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWn4sAIwPVLoeZKgFI1Rkh7QNHinG4W00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465781183925-j23qkftbckid6902rnrsrbohiev12qok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
